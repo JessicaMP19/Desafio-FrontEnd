@@ -4,7 +4,7 @@
 El desafío consiste en un reto de maquetación,integración y creacion del api podrán utilizar las librerías externas que deseen, pero para Frontend debes usar Vue y en la creacion del api debe ser con Mongodb
 
 Enlace del [prototipo](https://invis.io/EZIJNB9AHXW) del reto.
-Enlace de la [Incormacion]
+Enlace de la data
 
 > **Nota1:** El **resultado** Debe ser lo más similar al ejemplo brindado.
 
