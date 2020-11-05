@@ -1,4 +1,4 @@
-# Desafio FrontEnd y Backend (Vue -Mongo db)
+# Desafio Full Stack (Vue - Mongo db)
 
 ## Sobre el desafío
 El desafío consiste en un reto de maquetación, integración y creación del api podrán utilizar las librerías externas que deseen, pero para Frontend debes usar Vue.js y en la creacion del api debe ser con Mongodb con cualquier framework de Node.js de su preferencia.
