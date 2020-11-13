@@ -11,8 +11,10 @@ Enlace de la data
 
 ## Modo de entrega
 
-Enviar un correo a: jmanturano@americatv.pe
+Enviar un correo a: innovamericacpr@gmail.com
 
 Incluyendo en el asunto: DESAFÍO AMÉRICA
 
-Contenido: Link del repositorio de Github y el de la web
+Contenido: 
+* Link del repositorio de Github
+* Link de la web activa
